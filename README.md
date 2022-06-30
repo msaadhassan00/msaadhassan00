@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saad
 - 👀 I’m interested in Website Development
-- 🌱 I’m currently learning ReactJS,NextJs
+- 🌱 I’m currently learning Mern Stack (React Js, Node Js, Express Js, Mongodb)
 - 📫 How to reach me msaadhassan00@gmail.com
 
 <!---
